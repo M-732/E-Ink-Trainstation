@@ -10,7 +10,7 @@ Note that the code has only been tested on the specific hardware mentioned and 3
 * [Background](#background)
 * [Hardware and Tech](#hardware-and-tech)
 * [How It Works](#how-it-works)
-* [What's Next](#what-s-next)
+* [What's Next](#whats-next)
 
 ##  Background
 Few weeks ago, I was really interested into the E-Ink display after I saw [this post](https://www.mbta.com/projects/solar-powered-e-ink-signs).
@@ -46,3 +46,9 @@ This is how the script is executed:
 *  **Final behaviour:** Display the result on the e-ink screen and sleep until the next update, the screen refresh, the agenda update or the data request.
 
 ## What's Next
+
+I'm happy with the current state, I'll continue this project in 5-6 months (or if someone hires me in England, I say that, I say nothing ☻).I let it run for 48 hours, without any crashes and on 2 different stations (Wilmslow and Manchester Piccadilly). 
+
+However, there are just 2 minor problems at the moment, the name of some stations with the name much too long and the node tree who can't see if a station is on the same line between 2 stations but for this case, I think I'm limited with the API but I should check more precisely if I can found a way.
+
+And one non-problem I would like to change is too retrieve an anchor in the SVG template with the parameters of the box size to allow a full customization with Inkscape and to easily change between 2 screen and to only change the Waveshare EPD librairie.
