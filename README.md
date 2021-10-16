@@ -14,7 +14,7 @@ Note that the code has only been tested on the specific hardware mentioned and 3
 
 ##  Background
 Few weeks ago, I was really interested into the E-Ink display after I saw [this post](https://www.mbta.com/projects/solar-powered-e-ink-signs).
-![Test](https://cdn.mbta.com/sites/default/files/styles/max_1300x1300/public/media/2020-04/2020-02-24-GLC-eink-washington-square-5718.jpg?itok=xU34vV1A)
+<img src="https://cdn.mbta.com/sites/default/files/styles/max_1300x1300/public/media/2020-04/2020-02-24-GLC-eink-washington-square-5718.jpg?itok=xU34vV1A" width="45%">
 
 I was totally in love with the flat design, the extremely low power consumption (26.4mW at refresh for the Waveshare screen) and this paper effect.
 
