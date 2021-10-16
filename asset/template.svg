@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="648"
+   height="480"
+   viewBox="0 0 648 480"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="template.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.79136165"
+     inkscape:cx="497.87603"
+     inkscape:cy="306.43385"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     width="648px" />
+  <defs
+     id="defs2">
+    <rect
+       x="7"
+       y="30"
+       width="240"
+       height="40"
+       id="rect13531" />
+    <rect
+       x="7"
+       y="5"
+       width="240"
+       height="40"
+       id="rect3941" />
+    <rect
+       x="7"
+       y="30"
+       width="229.89084"
+       height="54.531914"
+       id="rect13531-6-7" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff"
+       id="Background"
+       width="660"
+       height="480"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="HeaderDeparture"
+       style="font-style:normal;font-weight:normal;font-size:17px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect3941);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-2,-4)"><tspan
+         x="7"
+         y="20.041016"
+         id="tspan241">HEADER_DEPARTURE</tspan></text>
+    <text
+       xml:space="preserve"
+       id="HeaderDestination"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13531);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(-2,-9)"><tspan
+         x="7"
+         y="43.271484"
+         id="tspan243">HEADER_DESTINATION</tspan></text>
+    <text
+       xml:space="preserve"
+       id="Departure_00"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13531-6-7);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2,31)"><tspan
+         x="7"
+         y="43.271484"
+         id="tspan245">DEPARTURE_00</tspan></text>
+    <text
+       xml:space="preserve"
+       id="Departure_01"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13531-6-7);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2,96)"><tspan
+         x="7"
+         y="43.271484"
+         id="tspan247">DEPARTURE_01</tspan></text>
+    <text
+       xml:space="preserve"
+       id="Departure_02"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13531-6-7);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2,161)"><tspan
+         x="7"
+         y="43.271484"
+         id="tspan249">DEPARTURE_02</tspan></text>
+    <text
+       xml:space="preserve"
+       id="Departure_03"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13531-6-7);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2,231)"><tspan
+         x="7"
+         y="43.271484"
+         id="tspan251">DEPARTURE_03</tspan></text>
+    <text
+       xml:space="preserve"
+       id="Departure_04"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13531-6-7);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2,291)"><tspan
+         x="7"
+         y="43.271484"
+         id="tspan253">DEPARTURE_04</tspan></text>
+    <text
+       xml:space="preserve"
+       id="Departure_05"
+       style="font-style:normal;font-weight:normal;font-size:15px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect13531-6-7);fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(2,356)"><tspan
+         x="7"
+         y="43.271484"
+         id="tspan255">DEPARTURE_05</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 247.67438,24.009251 V 446.69843"
+       id="path15272" />
+  </g>
+  <metadata
+     id="metadata132">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="" />
+    </rdf:RDF>
+  </metadata>
+</svg>

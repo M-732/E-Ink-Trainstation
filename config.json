@@ -1,0 +1,55 @@
+{
+  "maxDepartures": 6,
+  "timeCodeFormat": "%H:%M | %a, %d %B",
+  "distanceDrawMap": 23,
+
+  "transportRequest":
+  {
+    "appID": "b090a335",
+    "key": "801dfe24d7b2785fa1836b743aced1b9",
+    "station_code": "WML",
+    "calling_at": ""
+  },
+
+  "abbreviation":
+  {
+    "  " : "",
+    "Airport" : "Airp.",
+    "Central": "Cent.",
+    "Liverpool": "Liv.",
+    "London": "Lond.",
+    "Manchester": "Manch.",
+    "Parkway": "Park.",
+    "Piccadilly": "Picca.",
+    "Street": "Str.",
+    "Terminal " : "T."
+  },
+
+  "agenda":[
+    {
+      "startCondition": "7:30",
+      "refreshDisplay": 60,
+      "refreshDepartures": 360
+    },
+    {
+      "startCondition": "9:00",
+      "refreshDisplay": 180,
+      "refreshDepartures": 600
+    },
+    {
+      "startCondition": "17:00",
+      "refreshDisplay": 60,
+      "refreshDepartures": 360
+    },
+    {
+      "startCondition": "19:00",
+      "refreshDisplay": 120,
+      "refreshDepartures": 480
+    },
+    {
+      "startCondition": "23:00",
+      "refreshDisplay": 3600,
+      "refreshDepartures": 21600
+    }
+  ]
+}
